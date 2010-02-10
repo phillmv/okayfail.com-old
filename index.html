@@ -1,0 +1,11 @@
+---
+layout: default
+title: phillmv
+---
+
+{% for post in site.posts limit:5 %}
+  <div class="post">
+    {{ post.content }}
+    &mdash <a href="{{ post.url}}">permalink</a>
+  </div>
+{% endfor %}
