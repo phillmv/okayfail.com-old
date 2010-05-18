@@ -21,7 +21,7 @@ title: Thoughts on running a conference
  
 * What comes off as an asshole over email can easily turn out to be shy and extremely busy in person. Mind you, I still think, uh, what [Sirius Black](http://www.google.ca/search?hl=en&q=If+you+want+to+know+what+a+man's+like,+take+a+good+look+at+how+he+treats+his+inferiors,+not+his+equals.&btnG=Search&meta=&aq=f&oq=) once said still applies.
   
-* People have an absolutely astonishing capacity to not respond to emails. This was the most stunning thing I learned while organizing the conference. That was probably näive of me.
+* People have an absolutely astonishing capacity to not respond to emails. This was the most stunning thing I learned while organizing the conference. That was probably naïve of me.
 
 * Emails are informationally porous. No one actually bothers to *read* them. If there is anything they need to remember, say it within two or three paragraphs. 
  
