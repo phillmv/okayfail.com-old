@@ -1,3 +1,8 @@
+---
+layout: default
+title: Thoughts on building a feed reader
+---
+
 <h1>Thoughts on building a feed reader</h1>
 
 During the winter semester of 2009, I convinced my school administration to let me skip a prerequisite course I considered beneath me and enroll directly into 'Web Applications'. Therein, with lots of help from an amazing friend of mine named John Sully, we put together a neat demo of an app that displayed news information to visitors and sorted them according to which categories of news they preferred over time.
