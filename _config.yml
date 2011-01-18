@@ -3,7 +3,7 @@ auto:        false
 lsi:         false
 server_port: 4000
 pygments:    false
-markdown:    maruku
+markdown:    rdiscount
 permalink:   /:year/:title.html
 maruku:
   use_tex:    false

@@ -9,6 +9,12 @@ h1
   font-family: 'Helvetica','Arial',sans-serif;
 }
 
+h2
+{
+  font-size: 18px;
+  font-family: 'Helvetica','Arial',sans-serif;
+}
+
 a 
 {
   text-decoration: none;
