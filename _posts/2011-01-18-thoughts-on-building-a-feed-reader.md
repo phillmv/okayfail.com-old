@@ -10,7 +10,7 @@ title: Thoughts on building a feed reader
 
 It outlived an apartment, three semesters, two jobs, a relationship, a full conference planning and execution cycle, and spanned many countless weekend afternoons filled with dread and quiet procrastination over lattes and croissants.
 
-<img src="img/readless.png" />
+<img src="http://okayfail.com/img/readless.png" />
 
 In a nutshell, <a href="http://github.com/phillmv/thesis">Readless</a> is a custom feed reader that uses online supervised text classification through a bayesian classifier to classify rss/atom feed entries and filter them based on that criteria.
 
