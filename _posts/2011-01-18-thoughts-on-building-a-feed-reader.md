@@ -5,11 +5,18 @@ title: Thoughts on building a feed reader
 
 <h1>Thoughts on building a feed reader</h1>
 
-During the winter semester of 2009, I convinced my school administration to let me skip a prerequisite course I considered beneath me and enroll directly into 'Web Applications'. Therein, with lots of help from an amazing friend of mine named John Sully, we put together a neat demo of an app that displayed news information to visitors and sorted them according to which categories of news they preferred over time.
 
-That course turned into a freelance gig with the start-up that was sponsoring our project. I spent the summer of 2009 being the sole technical worker in a ten person online news startup. It was stressful, it was fun, I learned a lot about managing expectations and it enabled me to move downtown.
+2010 may be aptly described as the 'year of the thesis'. 
 
-The academic year of 2009-2010 thus appeared on the horizon and I found myself hatching a plan. I was tired of taking courses that were relatively unchallenging and the slim pickings offered in the course calendar weren't encouraging. In what turned out to me a momentous decision, I convinced the professor of my 'Web Applications' course to let me expand the original idea into an undergraduate thesis. My schedule thus looked incredibly enticing, and the idea of rolling my own project was kind of intoxicating.
+It outlived an apartment, three semesters, two jobs, a relationship, a full conference planning and execution cycle, and spanned many countless weekend afternoons filled with dread and quiet procrastination over lattes and croissants.
+
+<img src="img/readless.png" />
+
+In a nutshell, <a href="http://github.com/phillmv/thesis">Readless</a> predicts what you would like to read based off things you have read before, and does away with things you would not like to read. In fancier terms, I built a feed reader that uses online supervised text classification through a bayesian classifier to classify rss/atom feed entries and filter them based on that criteria.
+
+<hr>
+
+The academic year of 2009-2010 appeared on the horizon and I found myself hatching a plan. I was tired of taking courses that were relatively unchallenging and the slim pickings offered in the course calendar weren't encouraging. In what turned out to me a momentous decision, I convinced the professor of my 'Web Applications' course to let me expand the project me and my awesome friend John Sully developed into an undergraduate thesis. My schedule thus looked incredibly enticing, and the idea of rolling my own project was kind of intoxicating.
 
 That decision turned out to be both great and terrible. Although I quickly put together a proof of concept, I soon found myself perilously behind schedule. I eventually poked at the problem long enough to find something vaguely interesting to say, which in turn yielded this video:
 
@@ -54,3 +61,11 @@ Allow me to share some of the lessons I have drawn from this period.
 
 * **Based purely on my own dataset and my own observations**, I would recommend that you **should not** use the classifier gem. Your mileage may vary of course. I haven't had the time to investigate what is going wrong within that library as the authors implemented it in a way that doesn't match up with my mental model of how a bayesian classifier might work. All I can really tell you is that based on my empirical observations and on my own quirky set of data the classifier gem performed worse than random chance. Here is the frustrating bit: I can't find a single example of anyone measuring the output of the gem in a statistically significant manner. This is easy to explain: no one has time to test anything other than the trivial case. If you have a large body of data and you've found classifier to be useful to you, I would love to test this out! Please [contact me](http://okayfail.com/about.html).
 
+
+<h2>Now what?</h2>
+
+For the first time in my life, I find myself with absolutely zero long term commitments and it is both terrifying and fascinating. I'm done school, my short-term freelance gig has come to an end and I'm going to be forced to move in April.
+
+I'm at a bit of a crossroads in life. I want to become as good at my work as I know I am capable of being. I want to keep meeting interesting people and working on interesting things. I'm going to try to enjoy my upcoming (hopefully brief) period of unemployment, as I haven't taken time off in about two years now. 
+
+I don't know, but hopefully I'm going to enjoy it.
