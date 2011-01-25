@@ -12,7 +12,7 @@ It outlived an apartment, three semesters, two jobs, a relationship, a full conf
 
 <img src="img/readless.png" />
 
-In a nutshell, <a href="http://github.com/phillmv/thesis">Readless</a> predicts what you would like to read based off things you have read before, and does away with things you would not like to read. In fancier terms, I built a feed reader that uses online supervised text classification through a bayesian classifier to classify rss/atom feed entries and filter them based on that criteria.
+In a nutshell, <a href="http://github.com/phillmv/thesis">Readless</a> is a custom feed reader that uses online supervised text classification through a bayesian classifier to classify rss/atom feed entries and filter them based on that criteria.
 
 <hr>
 
