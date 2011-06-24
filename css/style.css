@@ -1,5 +1,12 @@
 body {
-  font-family: 'Helvetica','Arial',sans-serif;
+  width: 560px;
+}
+
+#header h1 {
+  font-size: 45px; 
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
 
 h1
@@ -8,6 +15,22 @@ h1
   padding-top: 10px;
   font-family: 'Helvetica','Arial',sans-serif;
 }
+
+h1 a {
+  color: black;
+}
+
+h1 a:visited {
+  color: black;
+}
+
+h1 a:hover {
+  color: #551A8B;
+  text-decoration: none;
+
+}
+
+
 
 h2
 {
@@ -35,19 +58,6 @@ img
   margin-top: 10px;
   margin-bottom: 20px;
   margin-left: 20px;
-}
-
-#permalink
-{
-  text-align: right;
-  padding-bottom: 100px;
-}
-#name {
-  font-size: 50px; 
-  letter-spacing: -2px;
-  position: relative;
-  margin-top: 10px;
-  font-weight: bold;
 }
 
 #name a
@@ -78,11 +88,24 @@ img
 }
 
 #content {
-  font-family: 'Times New Roman';
   font-weight: normal;
   font-size: 13pt;
   margin: auto auto -10px auto;
   /*	padding-left: 60px;*/
+  margin-top: 20px;
 }
 
+.post {
+  margin-bottom: 100px;
+}
 
+img {
+  width: auto;
+}
+
+ul, ol {
+  list-style-type: disc;
+  margin: 1em 0
+  display: block;
+  padding-left: 40px;
+}

@@ -4,10 +4,9 @@ title: phillmv
 ---
 
 {% for post in site.posts limit:5 %}
-  <div class="post">
-    {{ post.content }}
-    <div id="permalink">
-      &mdash; <a href="{{ post.url}}">permalink</a>
-    </div>
-  </div>
+<div class="post">
+  <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+  {{ post.content }}
+  <a href="{{post.url}}">#</a>
+</div>
 {% endfor %}

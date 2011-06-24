@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Thoughts on running a conference
+layout: post
+title: Thoughts on running a (software engineering) conference
 ---
-
-<h1>Thoughts on running a (software engineering) conference</h1>
 
 <a href="http://www.flickr.com/photos/lsegal/4294181037/in/set-72157623132305869/"><img src="http://farm3.static.flickr.com/2796/4294181037_27df8c0c9d.jpg"></a>
 

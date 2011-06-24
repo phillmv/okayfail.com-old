@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: post
 title: Post Mortem
 published: false
 ---
-
-<h1>Post Mortem</h1>
-
 2010 may be aptly described as the 'year of the thesis'. 
 
 It outlived an apartment, three semesters, two jobs, a relationship, a full conference planning and execution cycle, and spanned many countless weekend afternoons filled with dread and quiet procrastination over lattes and croissants.

@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: post
 title: Thoughts on building a feed reader
 ---
-
-<h1>Thoughts on building a feed reader</h1>
-
 
 2010 may be aptly described as the 'year of the thesis'. 
 

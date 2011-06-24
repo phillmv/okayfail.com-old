@@ -5,31 +5,33 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>{{ page.title }}</title>
     <meta name="description" content="Phillip Mendonca-Vieira, aka phillmv, is a computer scientist, a freelance ruby on rails developer, a photographer and an all around nice guy"/>
-    <link rel="stylesheet" type="text/css" href="/css/960.css" />
+    <link rel="stylesheet" type="text/css" href="/css/boilerplate.css" />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
   </head>
   <body>
-    <div class="container_12">
-      <div class="grid_8 prefix_2">
-	<div id="name"><a href="http://okayfail.com">Phillip Mendonça-Vieira</a></div>
-	<div id="tagline"><a href="/about.html">about</a> • <a href="/archive.html">archive</a> • <a href="http://okayfail.com/atom.xml">rss</a> • follow me on <a href="http://twitter.com/phillmv">twitter</a>, <a href="http://flickr.com/photos/hiffy">flickr</a>, <a href="http://github.com/phillmv">github</a> or my <a href="http://believeinanything.com">tumblr1</a>, <a href="http://killingmyself.tumblr.com">tumblr2</a></div>
-      </div>
-      <div class="grid_7 prefix_2">
-	<div id="content">
-	  {{ content }}
-	  <br/></br>
-	</div>
+    <div id="header">
+      <h1><a href="http://okayfail.com">Phillip Mendonça-Vieira</a></h1>
+      <div>
+	Follow me on <a href="http://twitter.com/phillmv">twitter</a>, <a href="http://flickr.com/photos/hiffy">flickr</a>, <a href="http://github.com/phillmv">github</a> or my <a href="http://believeinanything.com">reading blog</a>, <a href="http://killingmyself.tumblr.com">smoking blog</a><br/>
+	<a href="/about.html">about</a> • 
+	<a href="/archive.html">archive</a> • 
+	<a href="http://okayfail.com/atom.xml">rss</a>
       </div>
     </div>
+    <div id="content">
+      {{ content }}
+      <br/></br>
+    </div>
+  </div>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
     <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-      </script>
-      <script type="text/javascript">
-	try {
-	  var pageTracker = _gat._getTracker("UA-3507107-2");
-	  pageTracker._trackPageview();
-	} catch(err) {}
-      </script>
-    </body>
-  </html>
+      try {
+	var pageTracker = _gat._getTracker("UA-3507107-2");
+	pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+  </body>
+</html>
