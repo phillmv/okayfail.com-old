@@ -109,3 +109,7 @@ ul, ol {
   display: block;
   padding-left: 40px;
 }
+
+#flickr_badge_uber_wrapper tr, #flickr_badge_uber_wrapper td {
+  border: none;
+}
