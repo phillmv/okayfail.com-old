@@ -34,9 +34,9 @@ title: People try to put us down / just 'cause we get around
 <span class="sans-bold">phill:</span> ([Mina is a freelance editor](http://www.minasewellmancuso.com/) and so has large bouts of idleness as it commonly happens)<br/>
 
 <span class="sans-bold">andrew:</span> how do they make rent<br/>
-<span class="sans-bold">andrew:</span> [that's our generation for you](http://www.nytimes.com/2010/07/07/business/economy/07generation.html?_r=1&pagewanted=all)
+<span class="sans-bold">andrew:</span> [that's our generation for you](http://www.economist.com/blogs/freeexchange/2011/07/youth-unemployment?fsrc=rss&?fsrc==scn/tw/eecon/sf/freeex)
 
-<span class="sans-bold">phill:</span> and I thought to myself, what [a typical generation Y conversation](http://www.economist.com/blogs/freeexchange/2011/07/youth-unemployment?fsrc=rss&?fsrc==scn/tw/eecon/sf/freeex)
+<span class="sans-bold">phill:</span> and I thought to myself, what [a typical generation Y conversation](http://www.nytimes.com/2010/07/07/business/economy/07generation.html?_r=1&pagewanted=all)
 
 <span class="sans-bold">andrew:</span> ther'es an inkling of a feeling in me that somehow feels there's something good there though<br/>
 <span class="sans-bold">andrew:</span> our generation isn't just fodder for the corporate machiens
