@@ -38,7 +38,7 @@ title: People try to put us down / just 'cause we get around
 <span class="sans-bold">phill:</span> and I thought to myself, what [a typical generation Y conversation](http://www.nytimes.com/2010/07/07/business/economy/07generation.html?_r=1&pagewanted=all)
 
 <span class="sans-bold">andrew:</span> ther'es an inkling of a feeling in me that somehow feels there's something good there though<br/>
-<span class="sans-bold">andrew:</span> [our generation isn't just fodder for the corporate machiens](http://postcards.blogs.fortune.cnn.com/2010/07/07/who-cares-about-a-career-not-gen-y/)
+<span class="sans-bold">andrew:</span> [our generation isn't just fodder for the corporate machiens](http://www.time.com/time/magazine/article/0,9171,1640395,00.html)
 
 <span class="sans-bold">phill:</span> we don't settle as easily
 
