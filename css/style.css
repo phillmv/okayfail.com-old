@@ -99,6 +99,15 @@ img
   margin-bottom: 100px;
 }
 
+.post h1 {
+  padding-bottom: 10px;
+}
+
+.post .sans-bold {
+  font-weight: bold;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
 img {
   width: auto;
 }
