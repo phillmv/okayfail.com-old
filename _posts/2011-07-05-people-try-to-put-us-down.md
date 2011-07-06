@@ -3,7 +3,6 @@ layout: post
 title: People try to put us down / just 'cause we get around
 ---
 <span class="sans-bold">phill:</span> so<br/>
-<span class="sans-bold">phill:</span> before i go back to the last bit of this really easy feature,<br/>
 <span class="sans-bold">phill:</span> I was at a party on… saturday<br/>
 
 
@@ -30,7 +29,7 @@ title: People try to put us down / just 'cause we get around
 <span class="sans-bold">phill:</span> "Well tons of people have jobs. Uh… doesn't Mina have a job?"<br/>
 <span class="sans-bold">phill:</span> (there are like ten people sitting in this room)<br/>
 <span class="sans-bold">phill:</span> and I thought about it<br/>
-<span class="sans-bold">phill:</span> I think every person in that room was underemployed<br/>
+<span class="sans-bold">phill:</span> I think every person in that room was [underemployed](http://www.theglobeandmail.com/report-on-business/economy/economy-lab/daily-mix/as-jobless-levels-surge-a-lost-generation/article1889998/)<br/>
 <span class="sans-bold">phill:</span> ([Mina is a freelance editor](http://www.minasewellmancuso.com/) and so has large bouts of idleness as it commonly happens)<br/>
 
 <span class="sans-bold">andrew:</span> how do they make rent<br/>
@@ -39,7 +38,7 @@ title: People try to put us down / just 'cause we get around
 <span class="sans-bold">phill:</span> and I thought to myself, what [a typical generation Y conversation](http://www.nytimes.com/2010/07/07/business/economy/07generation.html?_r=1&pagewanted=all)
 
 <span class="sans-bold">andrew:</span> ther'es an inkling of a feeling in me that somehow feels there's something good there though<br/>
-<span class="sans-bold">andrew:</span> our generation isn't just fodder for the corporate machiens
+<span class="sans-bold">andrew:</span> [our generation isn't just fodder for the corporate machiens](http://postcards.blogs.fortune.cnn.com/2010/07/07/who-cares-about-a-career-not-gen-y/)
 
 <span class="sans-bold">phill:</span> we don't settle as easily
 
