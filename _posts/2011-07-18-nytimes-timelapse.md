@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New York Times They are a-Changin'
+title: The nytimes they are a-changin'
 ---
 
 Due to an errant cron task that ran twice an hour from September 2010 to July 2011, I accidentally collected about 12,000 screenshots of the front page of the [nytimes.com](http://nytimes.com) (best viewed fullscreen at 720p).
@@ -21,7 +21,7 @@ That said, moments like this one are no longer possible:
 [<img src="/img/truman.jpg" />](http://en.wikipedia.org/wiki/Dewey_Defeats_Truman)
 
 
-Having worked with and developed a number of content management systems I can tell you that as a rule of thumb no one is storing their frontpage layout data. It's all gone, and once newspapers shutter their physical distribution operations I get this feeling that we're no longer going to have a comprehensive archive of how our news-sources of note looked on a daily basis. [Archive.org](http://wayback.archive.org/web/20110815000000*/http://nytimes.com) comes close, but there are too many gaps to my liking.
+Having worked with and developed on a number of content management systems I can tell you that as a rule of thumb no one is storing their frontpage layout data. It's all gone, and once newspapers shutter their physical distribution operations I get this feeling that we're no longer going to have a comprehensive archive of how our news-sources of note looked on a daily basis. [Archive.org](http://wayback.archive.org/web/20110815000000*/http://nytimes.com) comes close, but there are too many gaps to my liking.
 
 This, in my humble opinion, is a tragedy because in many ways our frontpages are summaries of our perspectives and our preconceptions. They store what we thought was *important*, in a way that is easy and quick to parse and extremely valuable for any future generations wishing to study our time period.
 
