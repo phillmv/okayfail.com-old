@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOWTO: Make a screenshot timelapse video.
+title: "HOWTO: Make a screenshot timelapse video."
 ---
 
 After I posted that [nytimes-lapse](http://okayfail.com/2011/nytimes-timelapse.html) video earlier this week a lot of people wrote in asking me about how it was accomplished.
