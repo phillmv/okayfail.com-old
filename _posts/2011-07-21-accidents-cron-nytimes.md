@@ -80,5 +80,5 @@ Unfortunately, it seems like I haven't [ironed out the kinks](https://twitter.co
 
 <h2>That was a really cool video!</h2>
 
-Thanks! I'm conflicted over how I should feel about this. One the one all of the attention was exhilarating and intoxicating yet on the other I could feel the raging rampant narcissism I engaged in slowly poisoning my soul.
+Thanks! I'm conflicted over how I should feel about this. On the one hand all of the attention was exhilarating and intoxicating, yet on the other I could feel the raging rampant narcissism I engaged in slowly poisoning my soul.
 
