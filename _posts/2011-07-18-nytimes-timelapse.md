@@ -27,4 +27,6 @@ This, in my humble opinion, is a tragedy because in many ways our frontpages are
 
 Thanks for reading! If you have an idea of something fun to do with the data, [holla at me](http://twitter.com/phillmv).
 
+Interested in how this was put together? I wrote a [howto](http://okayfail.com/2011/howto-timelapse-nytimes.html).
+
 

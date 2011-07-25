@@ -68,7 +68,7 @@ I wrote a [script](https://gist.github.com/1089931). It's easy, when you're a pr
 
 Like I said, I wrote a script. It made looking up specific images and repeating certain frame sections easy. It was okay. It was tolerable.
 
-I timed the number of frames to much up with the length of the song.
+I timed the number of frames to match up with the length of the song.
 
 <h2>Should I use Youtube or Vimeo?</h2>
 
