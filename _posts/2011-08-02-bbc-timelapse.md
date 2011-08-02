@@ -67,7 +67,7 @@ Once an iPad equivalent drops below $100 it will stop making economic sense to p
 
 The upshot of this is that in the meantime quality news coverage is going to contract and we'll probably suffer somewhat on a intellectual, moral, and democratic level, etc, etc. 
 
-I'm not too concerned; our democracies emerged without the modern news distribution apparatus' and we're suddenly starting to see corps of semi-professional, semi-volunteers [picking up the slack](http://torontoist.com/2011/07/one_day_and_night_and_day_at_city_hall.php) on a local level. The next ten years are going to be crummy on almost any vector you want to pick, but at least we'll be experiencing the **last and most complete expansion in distribution and access to information**. 
+I'm not too concerned; our democracies emerged without the modern news distribution apparatus' and we're suddenly starting to see corps of semi-professional, semi-volunteers [picking up the slack](http://torontoist.com/2011/07/one_day_and_night_and_day_at_city_hall.php) on a local level. The next ten years are going to be crummy on almost any vector you want to pick, but at least we'll be experiencing **the last and most complete expansion in distribution and access to information**. 
 
 This is incredibly exciting. This will **never** happen again. Everything we do now will be taken for granted and ignored by future generations. We'll figure things out eventually.
 
