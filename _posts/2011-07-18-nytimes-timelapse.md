@@ -29,4 +29,6 @@ Thanks for reading! If you have an idea of something fun to do with the data, [h
 
 Interested in how this was put together? I wrote a [howto](http://okayfail.com/2011/howto-timelapse-nytimes.html).
 
+Thought this video was cool? [I made another one](http://okayfail.com/2011/bbc-timelapse.html) using the [BBC](http://www.bbc.co.uk/news/).
+
 
