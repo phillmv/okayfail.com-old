@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Not Invented Here Syndrome, RVM Edition
-published: false
 ---
 
 
@@ -49,7 +48,7 @@ Hah! Are you fucking kidding me? One of the biggest wins behind RVM is never hav
 
 In my relatively short career, I've come to the realization that one of the most important luxuries in life is the ability to **not care** and in this regard RVM was a huge step forward for humanity.
 
-It has yet to fail me, across maybe a dozen machines. If you're going to build a replacement it better be just as good at [enabling me](https://twitter.com/#!/raganwald/status/96984328084520960) to **Totally Not Give A Shit**&trade;, and building the interpreter is one of the bigger pieces of the puzzle.  Stretching that functionality across a whole separate tool is just More Complexity Than It Is Worth&trade;. rbenv is a tool for switching environment variables, which is nice, but what I really want is a tool for managing my interpreter environments. 
+It has yet to fail me, across maybe a dozen machines. If you're going to build a replacement it better be just as good at [enabling me](https://twitter.com/#!/raganwald/status/96984328084520960) to **Totally Not Give A Shit**&trade;. Building the interpreter is one of the bigger pieces of that puzzle.  Stretching that functionality across a whole separate tool is just More Complexity Than It Is Worth&trade;. rbenv is a tool for switching environment variables, which is nice, but what I really want is a tool for managing my interpreter environments. 
 
 Close, but not quite.
 
@@ -57,16 +56,14 @@ Close, but not quite.
 
 It's a *[tell](http://en.wikipedia.org/wiki/Tell_(poker\))*. [Sam Stephenson](https://twitter.com/#!/sstephenson) obviously has problems with RVM; I just happen to think that they're the wrong problems.
 
-rbenv is a totally valid effort!, and I would be the first to assert that Sam is almost definitely a smarter man than I am. It's very important for me to note that, despite spending a fair amount of time writing about this, I have no skin in the game, I bear no ill will towards any participants and I understand that the language I'm using is needlessly harsh towards people I would rather be friends with. I'm just trying to represent my immediate emotional reaction.
+rbenv is a totally valid effort!, and I would be the first to assert that Sam is almost definitely a smarter man than I am. Despite spending time writing about this, I have no skin in the game, I bear no ill will towards any participants and I understand that the language I'm using is needlessly harsh towards people I would rather be friends with. I'm trying to represent my immediate emotional reaction.
 
-The problem here is entirely social. Here goes: a programming language is only as useful as its community.
+The problem here is entirely social: a programming language is only as useful as its community.
 
 On the one hand, I actually think that this kind of [bitchy](http://stackoverflow.com/questions/6199301/global-access-to-rake-dsl-methods-is-deprecated) break neck pace of development is… probably a net-win for the genetic diversity of the ecosystem. On the other hand, the divisive nature of the religious arguments we end up engaging in invariably produce [toxic quantities of burn out](https://twitter.com/#!/wayneeseguin/status/101797127595892736).
 
-I guess what I'm trying to say is, speaking in code is always going to [be easier](https://twitter.com/#!/sstephenson/status/101788598248017922), and it's always going to be more fun but sometimes… maybe it should be something you resort to after you get a couple pull requests denied.
+Speaking in code is always going to [be easier](https://twitter.com/#!/sstephenson/status/101788598248017922), and it's always going to be more fun but sometimes… maybe it should be something you resort to after you get a couple pull requests denied. Code is easy, and code is cheap. The main value of RVM comes from the fact that [Wayne Seguin](https://twitter.com/#!/wayneeseguin) has gone above and beyond the call of duty in maintaining it; the effort behind the code itself is negligible in comparison. 
 
-\[Someday, someone is going to write an incredible essay on the enormous tectonic shift that github dealt to the open source community. It's amazing how it grappled with the social dimensions of open-source software by 1\) dramatically lowering communication and participation costs and 2\) dramatically improving a given project's organizational transparency. But I digress.\]
+\[Someday, someone is going to write an incredible essay on the enormous tectonic shift that github dealt to the open source community. It's amazing how it grappled with the social dimensions of open-source software by 1\) dramatically lowering communication and participation costs and 2\) dramatically improving a given project's organizational transparency. But I digress. [Here is a good start](http://eaves.ca/2011/06/14/how-github-saved-opensource/).\]
 
-I'm not terribly affected by the intrinsics of a (working, functional) tool. What I do care about is having some poor asshole upstream toiling away at it at a steady clip so that *I don't have to care* about that specific topic. The main value of RVM comes from the fact that [Wayne Seguin](https://twitter.com/#!/wayneeseguin) has gone above and beyond the call of duty in maintaining it; the effort behind the code itself pales in comparison.
-
-At the end of the day, we have an infinite amount of disk space to [store extra projects](https://twitter.com/#!/sstephenson/status/101806774331514881), but we suffer from an extreme shortage of poor assholes toiling away for my explicit benefit.
+At the end of the day, we have an infinite amount of disk space to [store extra projects](https://twitter.com/#!/sstephenson/status/101806774331514881), but we suffer from an extreme shortage of poor assholes, sitting upstream, toiling away for our explicit benefit.
