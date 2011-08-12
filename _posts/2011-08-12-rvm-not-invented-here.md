@@ -44,7 +44,7 @@ when installing a gem that provides a binary).
 &lt;&lt;ENDQUOTE
 
 
-Hah! Are you fucking kidding me? One of the biggest wins behind RVM is never having to *care* about how I compile my ruby interpreter. I don't know about you but I **hate** chasing down the appropriate versions of readline and openssl and what have you. It Just Works, Goddamnith&trade;. 
+Hah! Are you fucking kidding me? One of the biggest wins behind RVM is never having to *care* about how I compile my ruby interpreter. I don't know about you but I **hate** chasing down the appropriate versions of readline and openssl and what have you. It Just Works, Goddamnit&trade;. 
 
 In my relatively short career, I've come to the realization that one of the most important luxuries in life is the ability to **not care** and in this regard RVM was a huge step forward for humanity.
 
