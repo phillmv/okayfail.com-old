@@ -66,6 +66,6 @@ I guess what I'm trying to say is, speaking in code is always going to [be easie
 
 \[Someday, someone is going to write an incredible essay on the enormous tectonic shift that github dealt to the open source community. It's amazing how it grappled with the social dimensions of open-source software by 1\) dramatically lowering communication and participation costs and 2\) dramatically improving a given project's organizational transparency. But I digress.\]
 
-At the end of the day, I'm not terribly affected by the intrinsics of a (working, functional) tool. What I do care about is having some poor asshole upstream toiling away at it at a steady clip so that *I don't have to care* about that specific topic. 
+I'm not terribly affected by the intrinsics of a (working, functional) tool. What I do care about is having some poor asshole upstream toiling away at it at a steady clip so that *I don't have to care* about that specific topic. The main value of RVM comes from the fact that [Wayne Seguin](https://twitter.com/#!/wayneeseguin) has gone above and beyond the call of duty in maintaining it; the effort behind the code itself pales in comparison.
 
-We have infinite disk space to store extra projects, but we suffer from an extreme shortage of poor assholes toiling away for my explicit benefit.
+At the end of the day, we have an infinite amount of disk space to [store extra projects](https://twitter.com/#!/sstephenson/status/101806774331514881), but we suffer from an extreme shortage of poor assholes toiling away for my explicit benefit.
