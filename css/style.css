@@ -1,3 +1,69 @@
+body, p {
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#content p, #content h1, #content h2, #content blockquote, #content pre, #content li, #content hr {
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+#content li {
+  line-height: 1.5;
+}
+
+#content h1 {
+  font-size: 24px;
+}
+
+#content h2 {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+#content img {
+  margin-bottom: 20px;
+}
+
+header {
+  margin-left: 20%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 2.5em;
+} 
+
+#content {
+  margin-left: 20%;
+}
+
+.post {
+  margin-bottom: 100px;
+}
+
+a:visited
+{
+  color: #551A8B;	
+}
+
+.sans-bold
+{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+}
+
+
+#about ul, #about ol {
+  margin: 0 0 9px 20px;
+}
+
+
+
+
+/*
 body {
   width: 560px;
 }
@@ -91,7 +157,6 @@ img
   font-weight: normal;
   font-size: 13pt;
   margin: auto auto -10px auto;
-  /*	padding-left: 60px;*/
   margin-top: 20px;
 }
 
@@ -121,4 +186,4 @@ ul, ol {
 
 #flickr_badge_uber_wrapper tr, #flickr_badge_uber_wrapper td {
   border: none;
-}
+} */

@@ -3,9 +3,11 @@ layout: default
 title: Archive
 ---
 {% for post in site.posts %}
-{{ post.date | date_to_string }} <br/><a href="{{ post.url }}">{{ post.title }}</a>
-<br/>
-<br/>
+  <p>
+    {{ post.date | date_to_string }}
+    <br/>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </p>
 {% endfor %}
 
 
