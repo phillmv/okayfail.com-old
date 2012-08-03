@@ -39,7 +39,7 @@ The twitter problem stems in that when I am looking at a [resource](http://en.wi
 
 It's preposterous for two reasons. 
 
-First and for all, the resource locator I just pointed to *contains all the state necessary to construct the page*. The server, that ultimate guardian of persistance, already knows what information I'm trying to obtain. Resources are amongst the most important UI conventions we've established over the past couple of decades. The ability to share links to any application or content is incredibly powerful, and it's not an achievement that we're not going to abandon.
+First and for all, the resource locator I just pointed to *contains all the state necessary to construct the page*. The server, that ultimate guardian of persistence, already knows what information I'm trying to obtain. Resources are amongst the most important UI conventions we've established over the past couple of decades. The ability to share links to any application or content is incredibly powerful, and it's not an achievement that we're not going to abandon.
 
 More importantly, adding a second round trip to your application load can really harm your user's experience.
 
@@ -53,7 +53,7 @@ If you're genuinely concerned about user experience, it is all about sub ~300ms 
 
 --
 
-Now you tell this to a lot of js people and they'll hold up their nose and say that the answer is to build spaghetti evented apps. The one language everywhere paradigm is a nice dream but it's not necessary (and given the limitations of Javascript, nor is it *desireable*).
+Now you tell this to a lot of js people and they'll hold up their nose and say that the answer is to build spaghetti evented apps. The one language everywhere paradigm is a nice dream but it's not necessary (and given the limitations of Javascript, nor is it *desirable*).
 
 You're not going to actually be sharing that much code - outside of
 validations - between the server and the client. In fact, there's lots
