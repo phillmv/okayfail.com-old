@@ -8,7 +8,6 @@ Due to an errant cron task that ran twice an hour from September 2010 to July 20
 <iframe width="640" height="510" src="http://www.youtube.com/embed/sCKGOiauJCE?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 <br/>
-<br/>
 
 Working on this video was fascinating because the past year was filled with dramatic events (from the [Chilean miners](http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident) \[[0:39](http://youtu.be/sCKGOiauJCE?hd=1&t=39s)] to the [Arab Spring](http://en.wikipedia.org/wiki/Arab_Spring) \[[3:38](http://youtu.be/sCKGOiauJCE?hd=1&t=3m38s)] and the [Japanse Tsunami](http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) \[[4:54](http://youtu.be/sCKGOiauJCE?hd=1&t=4m54s)]) that I got to watch unfold time and time again. Watch out for them in the video; I took special care to slow down certain time periods.
 

@@ -1,3 +1,95 @@
+body {
+  padding-top: 40px;
+  line-height: 1.5;
+}
+
+h3 {
+  padding-top: 10px;
+  font-family: Georgia;
+  font-weight: normal;
+  font-size: 25px;
+}
+
+.bio h1 a {
+  text-transform: none;
+  color: black;
+}
+.img img {
+  border-radius: 6px;
+  height: 140px;
+}
+
+.tagline {
+  padding-top: 0px;
+  line-height: 25px;
+}
+
+.morelinks {
+  padding-top: 0px;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+#content {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+p, ul, ol, blockquote {
+  font-family: Georgia;
+  font-size: 16px;
+}
+
+#content h1 {
+  font-size: 30px;
+  width: 57.26495726495726%;
+  *width: 57.21176577559556%;
+}
+
+#content h2 {
+  font-size: 25px;
+}
+
+#content p, #content h2, #content h3, #content pre, #content hr, #content blockquote {
+  width: 48.717948717948715%;
+  *width: 48.664757228587014%;
+  margin-bottom: 20px;
+}
+
+#content li {
+  line-height: 1.5;
+}
+
+a:visited
+{
+  color: #551A8B;	
+}
+
+.post {
+  margin-bottom: 100px;
+}
+
+#about-tagline p  {
+  width: 100%;
+}
+
+#about h2 {
+  margin-top: 0px;
+}
+
+.sans-bold
+{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+}
+
+#content img {
+  margin-bottom: 20px;
+}
+
+
+
+/*
 body, p {
   font-family: 'Georgia', serif;
   font-size: 16px;
@@ -187,3 +279,4 @@ ul, ol {
 #flickr_badge_uber_wrapper tr, #flickr_badge_uber_wrapper td {
   border: none;
 } */
+

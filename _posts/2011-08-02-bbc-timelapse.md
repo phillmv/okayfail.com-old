@@ -7,7 +7,7 @@ The [cron job](http://okayfail.com/2011/howto-timelapse-nytimes.html) I set up t
 
 <iframe width="640" height="510" src="http://www.youtube.com/embed/Jk5E6ut9keg?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<br/></br>
+<br/>
 
 Catch the [Chilean miners](http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident) at 0:30. The [Arab Spring](http://en.wikipedia.org/wiki/Arab_Spring) begins in earnest around 3:00 with [Tunisia](http://en.wikipedia.org/wiki/Tunisian_revolution) (and eventually picks up [Egypt](http://en.wikipedia.org/wiki/2011_Egyptian_revolution)). The [Japanese tsunami](http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) hits around 4:30.
 
@@ -25,7 +25,7 @@ This can be seen most clearly when you compare their coverage of the [Chilean mi
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/T6k6jjpAgZU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<br/><br/>
+<br/>
 
 One pleasant upshot of this, however, is that the nytimes' homepage is more dramatic. If I want to know the most important story of the day, the BBC will do me right. If I want to follow an event with bated breath I might be better served by the nytimes. 
 
@@ -33,8 +33,7 @@ See how they covered the Egyptian revolution:
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/F_-scRx4doY?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<br/><br/>
-
+<br/>
 
 There is another great thing about the above video: you can see around 1:56 how the news cycle briefly moved on once the pace of new developments slowed down. I feel like this has nagging implications on our own perceptions of foreign events. You can see how the two sites share a large portion of photography and how quickly a subject gets dropped once it stops being *news*.
 
@@ -46,8 +45,7 @@ Anyhow, I also produced a video comparing their coverage of the Japanese tsunami
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/brz0bJ7uhE8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<br/><br/>
-
+<br/>
 
 <h2>So, which news organization should I follow?</h2>
 
