@@ -1,6 +1,20 @@
 body {
   padding-top: 40px;
   line-height: 1.5;
+  margin-bottom: 40px;
+}
+
+/* font tweaks */
+p, ul, ol, blockquote {
+  font-family: Georgia;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 30px; 
+}
+h2 {
+  font-size: 25px; 
 }
 
 h3 {
@@ -13,6 +27,15 @@ h3 {
 .bio h1 a {
   text-transform: none;
   color: black;
+}
+
+#bio h1 {
+  font-size: 38.5px;
+}
+
+#bio h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .img img {
   border-radius: 6px;
@@ -35,25 +58,18 @@ h3 {
   padding-bottom: 40px;
 }
 
-p, ul, ol, blockquote {
-  font-family: Georgia;
-  font-size: 16px;
-}
 
 #content h1 {
-  font-size: 30px;
   width: 57.26495726495726%;
   *width: 57.21176577559556%;
 }
 
-#content h2 {
-  font-size: 25px;
+p, h2, h3, pre, hr, blockquote {
+  margin-bottom: 20px;
 }
-
 #content p, #content h2, #content h3, #content pre, #content hr, #content blockquote {
   width: 48.717948717948715%;
   *width: 48.664757228587014%;
-  margin-bottom: 20px;
 }
 
 #content li {
@@ -66,16 +82,13 @@ a:visited
 }
 
 .post {
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
-#about-tagline p  {
-  width: 100%;
+.about   {
+  margin-top: 20px;
 }
 
-#about h2 {
-  margin-top: 0px;
-}
 
 .sans-bold
 {
