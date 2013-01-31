@@ -21,8 +21,7 @@ namespace :deploy do
   end
 end
 
-after "deploy:restart", "deploy:bundle"
-after "deploy:bundle", "deploy:run_jekyll"
+after "deploy:restart", "deploy:run_jekyll"
 
 # if you're still using the script/reaper helper you will need
 # these http://github.com/rails/irs_process_scripts
