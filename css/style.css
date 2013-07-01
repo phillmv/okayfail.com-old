@@ -72,6 +72,10 @@ p, h2, h3, pre, hr, blockquote {
   *width: 48.664757228587014%;
 }
 
+#content blockquote p {
+  width: 100%;
+}
+
 #content li {
   line-height: 1.5;
 }
