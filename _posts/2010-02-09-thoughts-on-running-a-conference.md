@@ -2,8 +2,9 @@
 layout: post
 title: Thoughts on running a (software engineering) conference
 ---
-
-<a href="http://www.flickr.com/photos/lsegal/4294181037/in/set-72157623132305869/"><img src="http://farm3.static.flickr.com/2796/4294181037_27df8c0c9d.jpg"></a>
+<div>
+  <img src="/img/cusec.jpg"/>
+</div>
 
 * Get a good night's sleep the day before the conference. If you're doing a good job you will barely sleep at all for the rest of the conference.
 
@@ -38,4 +39,6 @@ title: Thoughts on running a (software engineering) conference
 * The day after the conference can be brutal for some people. You go from being relatively important and receiving dozens of emails a day to a nobody the second the conference is over. After you physically recover, schedule some pleasant evenings with the friends you've been neglecting.
 
 
-<a href="http://www.flickr.com/photos/hyfen/4295081899/in/set-72157623137510825/"><img src="http://farm3.static.flickr.com/2744/4295081899_61d177e7bd.jpg"></a>
+<div>
+  <a href="http://www.flickr.com/photos/hyfen/4295081899/in/set-72157623137510825/"><img src="/img/cusec_phill.jpg"></a>
+</div>
