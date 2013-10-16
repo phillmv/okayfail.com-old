@@ -1,73 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Phillip Mendonca-Vieira, aka phillmv, is a computer scientist, a freelance ruby on rails developer, a photographer and an all around nice guy"/>
-    <meta name="author" content="Phillip Mendonça-Vieira">
-    <meta name="keywords" content="phillmv rails software awesome Phill Phillip Mendonça-Vieira">
-    <link rel="alternate" type="application/atom+xml" title="rss" href="http://okayfail.com/atom.xml" />
+{% include start.html %}
+<div class="row-fluid">
+  <div id="bio" class="span6 offset3">
+    <h1><a href="/about.html">about</a>, projects, photography</h1> 
+    <h3 class="morelinks"><a href="/archive.html">archive</a>. twitter, github, instagram, flickr.</h3>
+  </div>
+</div>
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<!-- <div class="row&#45;fluid"> -->
+  <!--   <div id="bio" class="span6 offset2"> -->
+    <!--     <h1><a href="/">Phillip Mendonça&#45;Vieira</a></h1> -->
+    <!--     <h3 class="tagline">Chief exporter of awesome. Partner at <a href="http://state.io">State.io</a></h3> -->
+    <!--     <h3 class="morelinks"><a href="/about.html">About</a>, <a href="/archive.html">archive</a>. You can also find me on <a href="http://twitter.com/phillmv">twitter</a>, <a href="http://instagram.com/phillmv">instagram</a> or <a href="http://www.flickr.com/photos/hiffy/">flickr</a></h3> -->
+    <!--   </div> -->
+  <!-- </div> -->
 
-    <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
-    <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
-    <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet" />
-  </head>
+<div class="row-fluid">
+  <div id="content" class="span9 offset3">
+    {{ content }}
 
-  <body>
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <div id="bio" class="span6 offset2">
-          <h1><a href="/">Phillip Mendonça-Vieira</a></h1>
-          <h3 class="tagline">Chief exporter of awesome. Partner at <a href="http://state.io">State.io</a></h3>
-          <h3 class="morelinks"><a href="/about.html">About</a>, <a href="/archive.html">archive</a>. You can also find me on <a href="http://twitter.com/phillmv">twitter</a>, <a href="http://instagram.com/phillmv">instagram</a> or <a href="http://www.flickr.com/photos/hiffy/">flickr</a></h3>
-        </div>
-      </div>
+    <div class="pagination">
+      <p>
+        {% if paginator.next_page %}
+        But wait! There's more.<br/>
+        {% endif %}
+        {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <span style="margin-right: 30%"><a href="/">Previous page</a></span>
+        {% else %}
+        <span style="margin-right: 30%"><a href="/page{{paginator.previous_page}}">Previous page</a></span>
+        {% endif %}
+        {% endif %}
 
-      <div class="row-fluid">
-        <div id="content" class="span10 offset2">
-          {{ content }}
+        {% if paginator.next_page %}
+        <span><a href="/page{{paginator.next_page}}">Next page</a></span>
+        {% endif %}
+      </p>
+      <p><a href="/atom.xml">feed / atom</a></p>
+    </div> 
+  </div>
 
-          <div class="pagination">
-            <p>
-            {% if paginator.next_page %}
-            But wait! There's more.<br/>
-            {% endif %}
-            {% if paginator.previous_page %}
-              {% if paginator.previous_page == 1 %}
-                <span style="margin-right: 30%"><a href="/">Previous page</a></span>
-              {% else %}
-                <span style="margin-right: 30%"><a href="/page{{paginator.previous_page}}">Previous page</a></span>
-              {% endif %}
-            {% endif %}
+</div>
+{% include end.html %}
 
-            {% if paginator.next_page %}
-              <span><a href="/page{{paginator.next_page}}">Next page</a></span>
-              {% endif %}
-              </p>
-            <p><a href="/atom.xml">feed / atom</a></p>
-          </div> 
-        </div>
 
-      </div>
-    </div>
-
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-      try {
-	var pageTracker = _gat._getTracker("UA-3507107-2");
-	pageTracker._trackPageview();
-      } catch(err) {}
-</script>
-  </body>
-</html>
