@@ -89,6 +89,10 @@ a:visited
   color: #551A8B;	
 }
 
+a[rel="footnote"] {
+  font-size: 15px;
+}
+
 .post {
   margin-bottom: 60px;
 }
