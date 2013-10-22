@@ -36,21 +36,21 @@ Some people really took a liking to it, and the app has since been used in a <a 
 
 <h2>Cool. What did you use to make it?</h2>
 
-I wrote a little sinatra thing that spat out new instagram photos when asked. I put down a layer of [masonry](http://masonry.desandro.com/) and wrapped it together with [jmpress.js](http://jmpressjs.github.io/jmpress.js/).
+I wrote a little sinatra thing that spat out new instagram photos when asked. I put down a layer of [masonry](http://masonry.desandro.com/) and wrapped it together with [jmpress.js](http://jmpressjs.github.io/jmpress.js/). It works surprisingly well: new photos show up within five seconds of being posted.
 
 The waterfall effect was achieved by prepending new instagram thumbnails in a div taller than the screen; masonry does the rest. I also remove elements a couple rows below the fold as a crude form of garbage collection. Without it, Chrome quickly starts to run out of memory.
 
 I was reticent to accept Michael's invitation. I wasn't sure if I could put together something that was cool enough[^instasob] and as a result it only really came together the week before the party date. Overall, I spent about five nights poking at it and one long evening and an afternoon frantically making it work. 
 
-In the process I wrote some of the most terrible javascript ever committed to disk. I've since rewritten all the ruby a couple of times over, but that javascript remains inscrutable because I really don't want to touch it. That javascript is why I haven't linked to the github page. I've gotten a lot better at javascript since then.
+In the process I wrote some of the most terrible javascript ever committed to disk. I've since rewritten all the ruby a couple of times over, but that javascript remains inscrutable because I really don't want to touch it. That javascript is why I haven't linked to the github page. I've gotten a lot better at it since then.
 
 <h2>What did you learn from this experience?</h2>
 
 Telling the bouncer to let your friends [skip a huge line](http://instagram.com/p/lV7hv/) feels pretty cool[^instalol]. 
 
-The barrier to making something neat can be surprisingly low; the important thing is to play with it and see what you can make. I've been terrible at following this advice. Michael did 90% of the work for that evening and has since gone on to do [more wonderful things](http://mwjoffe.tumblr.com/portfolio).
-
 I think to this day, event and location apps are underexplored. Something to facilitate documentation and increase serendipity. I think my phone could someday output significantly more whimsy into my life.
+
+The barrier to making something neat can be surprisingly low; the important thing is to play with it and see what you can make. I've been terrible at following this advice. 
 
 <strong>tl;dr</strong> if someone asks you to write software for a dance party, say yes.
 
