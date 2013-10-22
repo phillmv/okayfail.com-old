@@ -2,7 +2,7 @@
 layout: post
 title: instagram for fun and profit
 ---
-Back in December 2011, I was approached by [Michael Joffe](http://mwjoffe.tumblr.com/) to make something happen for the early 2012 installment of his [dance party art things](http://www.thegridto.com/life/society/the-nocturne-back-in-the-new-york-groove/), Oui Paris. 
+Back in December 2011, I was approached by [Michael Joffe](http://mwjoffe.tumblr.com/) to make something happen for the early 2012 installment of his [dance party art things](http://www.thegridto.com/life/society/the-nocturne-back-in-the-new-york-groove/), this one being called "Oui Paris". 
 
 So, I stuck together some bits of ruby and javascript and made "audiogram", an instagram feed that updates in real time, and Michael threw a dance party around it. 
 
@@ -32,15 +32,15 @@ I'm glad you asked. This video will give you the general idea:
 
 The reason I am writing about this now, in 2013, is because I never got around to making the above recording until a few months ago. I don't understand why, or what overcame me, it really wasn't that much work[^instaarcheology].
 
-Some people really took a liking to it, and the app has since been used in a conference party, a corporate holiday party, a wedding, and a sexy aids fundraising dance party[^instanopantsnoproblem].
+Some people really took a liking to it, and the app has since been used in a <a href="http://throneofjs.com/parties/#parties">conference party</a>, a corporate holiday party, a wedding, a <a href="http://lookingforgold.blogspot.ca/2012/12/long-winter-three.html">winter music festival series</a>, and a sexy aids fundraising dance party[^instanopantsnoproblem].
 
 <h2>Cool. What did you use to make it?</h2>
 
 I wrote a little sinatra thing that spat out new instagram photos when asked. I put down a layer of [masonry](http://masonry.desandro.com/) and wrapped it together with [jmpress.js](http://jmpressjs.github.io/jmpress.js/).
 
-The waterfall effect was achieved by prepending new instagram thumbnails in a div taller than the screen; masonry does the rest. I also remove() elements a couple rows below the fold as a crude form of garbage collection. Without it, Chrome quickly starts to run out of memory.
+The waterfall effect was achieved by prepending new instagram thumbnails in a div taller than the screen; masonry does the rest. I also remove elements a couple rows below the fold as a crude form of garbage collection. Without it, Chrome quickly starts to run out of memory.
 
-I was reticent to accept Michael's invitation. I wasn't sure if I could put together something that was cool enough[^instasob] and as a result it only really came together the week before the party date. I spent about five nights and a weekend poking at it and one long evening and an afternoon frantically making it work. 
+I was reticent to accept Michael's invitation. I wasn't sure if I could put together something that was cool enough[^instasob] and as a result it only really came together the week before the party date. Overall, I spent about five nights poking at it and one long evening and an afternoon frantically making it work. 
 
 In the process I wrote some of the most terrible javascript ever committed to disk. I've since rewritten all the ruby a couple of times over, but that javascript remains inscrutable because I really don't want to touch it. That javascript is why I haven't linked to the github page. I've gotten a lot better at javascript since then.
 
@@ -64,6 +64,6 @@ I think to this day, event and location apps are underexplored. Something to fac
 
 [^instasob]: Without any advance notice, he put my name on the facebook event and the event listings he got into the alt-weeklies, and by then it was too late for me to wuss out.
 
-[^instalol]: Me: "Would it be cool if they came straight in?", Extremely Nice Bouncer Guy: "Dude, it's your party."
+[^instalol]: Me, pointing: "Would it be cool if they came straight in?", <br/>Extremely Nice Bouncer Guy: "Dude, it's your party."
 
 
