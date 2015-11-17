@@ -113,6 +113,10 @@ a[rel="footnote"] {
   margin-bottom: 20px;
 }
 
+#content .logo {
+  max-width: 300px;
+}
+
 
 
 /*
